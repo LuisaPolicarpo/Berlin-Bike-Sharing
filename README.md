@@ -7,6 +7,8 @@ This Streamlit app lets users search for a bike-sharing station in Berlin and vi
 
 The data comes from the [CityBikes API](https://api.citybik.es/v2/) and uses the `nextbike-berlin` network.
 
-You can deploy this app using [Streamlit Cloud](https://streamlit.io/cloud):
+You can deploy here:
+
+**https://berlin-bike-sharing.streamlit.app/**
 
 
